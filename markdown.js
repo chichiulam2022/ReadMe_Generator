@@ -19,7 +19,7 @@ The following necessary dependencies must be installed properly:
 * <b>${answers.Installation}</b>.
 
 ## Usage
-In order to use this app, ${answers.Usage}
+${answers.Usage}
 
 ## Licence
 This project is licensed under the ${answers.Licence} licence. 
