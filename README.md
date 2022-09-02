@@ -17,7 +17,7 @@ The following necessary dependencies must be installed properly:
 * <b>inquirer npm (version must be lower than 9.0).</b>.
 
 ## Usage
-In order to use this app, Users should run the app using Node.js, then install the inquirer npm, and answers the questions in order to generate a ReadMe file.
+Users should run the app using Node.js, then install the inquirer npm, and answers the questions in order to generate a ReadMe file.
 
 watch video: https://www.loom.com/share/dd8015a96001446584aedf68508be6d9
 
